@@ -4,4 +4,4 @@
 # Projeto relearn-python
 
 ## Descrição
-Estudos de Pyhton com foco em reciclagem e reforço de conhecimento, considerando que fiquei muito tempo sem estudar a fundo a linguagem.
+Estudos de Python com foco em reciclagem e reforço de conhecimento, considerando que fiquei muito tempo sem estudar a fundo a linguagem.
