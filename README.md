@@ -1,4 +1,7 @@
-# Python
-Estudos referentes a linguagem python
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python Icon" width="100px" align="right">
 
-## Na pasta testes estão pequenos exercícios e testes de sintaxe propostos por alunos, colegas ou apenas desafios corriqueiros que surgem
+
+# Projeto relearn-python
+
+## Descrição
+Estudos de Pyhton com foco em reciclagem e reforço de conhecimento, considerando que fiquei muito tempo sem estudar a fundo a linguagem.
